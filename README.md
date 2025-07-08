@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and web development.
 - 🌱 I’m currently learning AI and ML
 - 💞️ I’m looking to collaborate on open-source projects in web development, machine learning, and innovative software tools.
-- 📫 How to reach me:- saseendranrohit@gamil.com
+- 📫 How to reach me:- saseendranrohit@gmail.com
 
 <!---
 rohit-175/rohit-175 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
