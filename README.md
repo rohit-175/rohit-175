@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rohit-175
+- 👋 Hi, I’m Rohit
 - 👀 I’m interested in programming and web development.
 - 🌱 I’m currently learning AI and ML
 - 💞️ I’m looking to collaborate on open-source projects in web development, machine learning, and innovative software tools.
