@@ -5,12 +5,15 @@
 I'm passionate about crafting seamless web experiences and building intelligent systems that make an impact.  
 My interests lie at the intersection of **web development**, **Python programming**, and the exciting world of **AI, ML, and Generative AI**.
 
+🔗 Check out: [My Portfolio](https://personal-portfolio-livid-seven.vercel.app)
+
 - 🚀 I enjoy turning ideas into scalable solutions — from dynamic frontends to AI-powered apps  
 - 📚 Always learning, always experimenting — I love exploring new technologies and expanding my skillset  
 - 💼 Eager to contribute to meaningful software development projects that push boundaries
 
 ## 📫 Contact Me
 
+📧 Email: saseendranrohit@gmail.com  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-saseendran-49a223215/)
 [![Gmail](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saseendranrohit@gmail.com)
 <!---
@@ -26,3 +29,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-stats.vercel.app/api?username=rohit-175&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rohit-175&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-175&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 💬 Random Dev Quote
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
