@@ -1,9 +1,18 @@
-- 👋 Hi, I’m Rohit
-- 👀 I’m interested in programming and web development.
-- 🌱 I’m currently learning AI and ML
-- 💞️ I’m looking to collaborate on open-source projects in web development, machine learning, and innovative software tools.
-- 📫 How to reach me:- saseendranrohit@gmail.com
+## 👋 Hello, I'm Rohit
 
+🎯 **Aspiring Software Developer** | 💻 **Web Development Enthusiast** | 🤖 **AI/ML Explorer**
+
+I'm passionate about crafting seamless web experiences and building intelligent systems that make an impact.  
+My interests lie at the intersection of **web development**, **Python programming**, and the exciting world of **AI, ML, and Generative AI**.
+
+- 🚀 I enjoy turning ideas into scalable solutions — from dynamic frontends to AI-powered apps  
+- 📚 Always learning, always experimenting — I love exploring new technologies and expanding my skillset  
+- 💼 Eager to contribute to meaningful software development projects that push boundaries
+
+## 📫 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-saseendran-49a223215/)
+[![Gmail](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saseendranrohit@gmail.com)
 <!---
 rohit-175/rohit-175 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
